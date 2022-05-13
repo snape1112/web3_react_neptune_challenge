@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Screenshots
 
-![alt text](https://github.com/ittechman101/web3_react_neptune_challenge/blob/4a5842b71938e9368d2a4a5f48efcbb598901733/screenshots/1.png)
+![alt text](https://github.com/ittechman101/web3_react_neptune_challenge/blob/main/screenshots/1.png)
 
 
 ![alt text](https://github.com/ittechman101/web3_react_neptune_challenge/blob/e8e7d2b8aa51082edbd0f069bcf3991a2f94704f/screenshots/2.png)
@@ -23,4 +23,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![alt text](https://github.com/ittechman101/web3_react_neptune_challenge/blob/e8e7d2b8aa51082edbd0f069bcf3991a2f94704f/screenshots/3.png)
 
 
-![alt text](https://github.com/ittechman101/web3_react_neptune_challenge/blob/4a5842b71938e9368d2a4a5f48efcbb598901733/screenshots/4.png)
+![alt text](https://github.com/ittechman101/web3_react_neptune_challenge/blob/main/screenshots/4.png)
